@@ -29,10 +29,12 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 [<img align="left" alt="ReactNative" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />]()
+[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />]()
 [<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />]()
-[<img align="left" alt="Unity3D" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />]()
+[<img align="left" alt="Unity3D" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />]()
 [<img align="left" alt="HoloLens" color="#00000" width="28px" src="https://cdn.icon-icons.com/icons2/2248/PNG/128/hololens_icon_135510.png" />]()
 [<img align="left" alt="Oculus" color="#00000" width="26px" src="https://simpleicons.org/icons/oculus.svg" />]()
+[<img align="left" alt="Adobe" color="#FF26BE" width="24px" src="https://simpleicons.org/icons/adobexd.svg" />]()
 <br />
 
 
