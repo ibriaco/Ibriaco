@@ -1,10 +1,8 @@
 ### Hi there, I'm Ibra! 👋
 
-## MSc student in Computer Science and Engineering at [Politecnico di Milano][polimi]
-- 🔭 I’m currently working on my Master of Science thesis [HoloLens Version](https://github.com/Ibriaco/DoYouSpeakHolo) - [Oculus Version](https://github.com/Ibriaco/DoYouSpeakOculus)
-- 🌱 I’m currently learning how to create Data Analytics platforms with Vue.js
-- 👯 I’m looking to collaborate on ... IT'S A SECRET!
-- 🤔 I’m looking for help with drafting my Resume and Cover Letter
+## MSc Graduate in Computer Science and Engineering at [Politecnico di Milano][polimi]
+- 🔭 Thesis Title: Conversational Virtual Reality for Second Language Learning
+- 🌱 I’m currently looking for a PhD to continue my research on VR and MR technologies for education and learning
 - 💬 Ask me about whatever you feel!
 - ⚡ Fun fact: my life.
 - 📫 How to reach me: [ibrahim.elshemy@mail.polimi.it](mailto:ibrahim.elshemy@mail.polimi.it?subject=[GitHub]%20Source%20Han%20San)
